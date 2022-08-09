@@ -1,0 +1,10 @@
+isalnum="bobby12"
+print(isalnum.isalnum())
+isalnum="bobby"
+print(isalnum.isalnum())
+isalnum="bobby12"
+print(isalnum.isalnum())
+isdigit="12"
+print(isdigit.isdigit())
+isdigit="bobby"
+print(isdigit.isdigit())
